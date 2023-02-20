@@ -5,3 +5,5 @@ In today’s world companies and businesses are very keen to understand and anal
 With modern data analytics, we can identify purchasing and selling patterns by carefully analyzing the data to help the investors.
 
 
+
+
